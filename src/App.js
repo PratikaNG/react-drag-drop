@@ -74,7 +74,7 @@ function App() {
           }}
         >
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Every element on this page is draggable....How Coooool!!!
           </p>
         </animated.div>
         <animated.div
@@ -91,7 +91,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React -- drag 
           </a>
         </animated.div>
       </header>
